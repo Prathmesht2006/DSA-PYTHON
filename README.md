@@ -29,8 +29,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0001-two-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
