@@ -1,0 +1,15 @@
+class Solution:
+    def secondLargestElement(self, nums):
+        largest = nums[0]
+        second_largest = float("-inf")
+    
+        for num in nums[1:]:
+            if num > largest:
+                second_largest = largest
+                largest = num
+            elif num < largest and num > second_largest:
+                second_largest = num
+    
+        return -1 if second_largest == float("-inf") else second_largest
+        
+        
