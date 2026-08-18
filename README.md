@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0283-move-zeroes) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
