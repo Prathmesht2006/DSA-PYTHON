@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0485-max-consecutive-ones) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
