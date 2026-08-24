@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
