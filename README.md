@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0283-move-zeroes) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0876-middle-of-the-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
