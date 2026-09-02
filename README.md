@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0876-middle-of-the-linked-list) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0876-middle-of-the-linked-list) |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0053-maximum-subarray) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
