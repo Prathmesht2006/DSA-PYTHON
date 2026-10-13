@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0142-linked-list-cycle-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0136-single-number) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -118,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0595-big-countries) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
