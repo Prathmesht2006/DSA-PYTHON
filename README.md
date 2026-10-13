@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0054-spiral-matrix) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
