@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0119-pascals-triangle-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0268-missing-number) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0073-set-matrix-zeroes) |
 ## Database
 |  |
 | ------- |
