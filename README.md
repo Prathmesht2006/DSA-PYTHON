@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0283-move-zeroes) |
