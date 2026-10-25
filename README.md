@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0493-reverse-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0493-reverse-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0493-reverse-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -164,4 +167,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Prathmesht2006/DSA-PYTHON/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
